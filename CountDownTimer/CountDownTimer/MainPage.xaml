@@ -6,11 +6,25 @@
              mc:Ignorable="d"
              x:Class="CountDownTimer.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+    <StackLayout Orientation="Vertical" Padding="20">
+        <Label Text="Verify OTP" FontSize="25" TextColor="Gray" Margin="5"/>
+        <Label FontSize="20" TextColor="Gray" Margin="5">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="OTP sent to +91 "/>
+                    <Span Text="&lt;phone number&gt;"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Entry Placeholder="OTP" FontSize="18" TextColor="Gray" Margin="5" WidthRequest="100"/>
+        <StackLayout Orientation="Horizontal" Margin="5">
+            <Label x:Name="lblResend" Text="Resend" TextColor="Gray" FontAttributes="Bold" FontSize="20" Margin="0" Padding="0">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="lblResend_Tapped"/>
+                </Label.GestureRecognizers>
+            </Label>
+            <Label x:Name="lblCounter" TextColor="Gray" FontSize="20" Margin="0" Padding="0"/>
+        </StackLayout>
+        <Button Text="LOGIN" TextColor="Black" FontSize="16" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" />
     </StackLayout>
-
 </ContentPage>
