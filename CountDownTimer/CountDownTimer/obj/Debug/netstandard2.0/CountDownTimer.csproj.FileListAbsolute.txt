@@ -1,0 +1,14 @@
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\bin\Debug\netstandard2.0\CountDownTimer.deps.json
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\bin\Debug\netstandard2.0\CountDownTimer.dll
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\bin\Debug\netstandard2.0\ref\CountDownTimer.dll
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\bin\Debug\netstandard2.0\CountDownTimer.pdb
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\CountDownTimer.csprojAssemblyReference.cache
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\CountDownTimer.csproj.CoreCompileInputs.cache
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\CountDownTimer.AssemblyInfoInputs.cache
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\CountDownTimer.AssemblyInfo.cs
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\CountDownTimer.dll
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\ref\CountDownTimer.dll
+D:\VS\CountDownTimer\CountDownTimer\CountDownTimer\CountDownTimer\obj\Debug\netstandard2.0\CountDownTimer.pdb
